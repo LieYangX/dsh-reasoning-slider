@@ -1,0 +1,36 @@
+.gitattributes
+  h_1d1a3d05761997 1-2
+.gitignore
+  h_1d1a3d05761997 1-5
+LICENSE
+  h_1d1a3d05761997 1-21
+README.md
+  h_1d1a3d05761997 1-156
+client.js
+  h_1d1a3d05761997 1-1168
+cordis.patch.yml
+  h_1d1a3d05761997 1-3
+icon.svg
+  h_1d1a3d05761997 1-9
+index.js
+  h_1d1a3d05761997 1-2
+locale/en.json
+  h_1d1a3d05761997 1-6
+locale/zh.json
+  h_1d1a3d05761997 1-6
+package.json
+  h_1d1a3d05761997 1-52
+test/smoke.mjs
+  h_1d1a3d05761997 1-219
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "accca1fc00e2177549c6e38ebd5314235b503f0f",
+  "prompts": {},
+  "humans": {
+    "h_1d1a3d05761997": {
+      "author": "xiangwei <18573714766@139.com>"
+    }
+  }
+}
