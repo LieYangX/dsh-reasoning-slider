@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Reasoning Effort Slider",
+    "description": "Adds a Codex-style draggable slider under the reasoning-effort row in DSH's official model menu."
+  }
+}
